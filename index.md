@@ -11,5 +11,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 7. [6. KIMIA DASAR](ebook/6. KIMIA DASAR) - Nur Hidayah, dkk (2020)
 8. [7. MATEMATIKA DASAR](ebook/7. MATEMATIKA DASAR) - Rahmawati Patta, dkk (2021)
 9. [8. PENGANTAR PSIKOLOGI UMUM](ebook/8. PENGANTAR PSIKOLOGI UMUM) - Kandi, dkk (2023)
-10. 
+10. [9. KEBIJAKAN PENGEMBANGA KOLEKSI PERPUSTAKAAN NASIONAL](ebook/9. KEBIJAKAN PENGEMBANGA KOLEKSI PERPUSTAKAAN NASIONAL) - Kepala Perpustakaan Nasional RI - (2012)
+11. [10. 
 Powered by GitHub Pages
