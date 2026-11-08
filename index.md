@@ -12,5 +12,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [7. MATEMATIKA DASAR](ebook/7. MATEMATIKA DASAR) - Rahmawati Patta, dkk (2021)
 9. [8. PENGANTAR PSIKOLOGI UMUM](ebook/8. PENGANTAR PSIKOLOGI UMUM) - Kandi, dkk (2023)
 10. [9. KEBIJAKAN PENGEMBANGA KOLEKSI PERPUSTAKAAN NASIONAL](ebook/9. KEBIJAKAN PENGEMBANGA KOLEKSI PERPUSTAKAAN NASIONAL) - Kepala Perpustakaan Nasional RI - (2012)
-11. [10. 
+11. [10. Hukum Perdata (Asas-Asas dan Perkembangan)](ebook/10. Hukum Perdata (Asas-Asas dan Perkembangan)) - Sufiarina (2024)
+12. [11. 
 Powered by GitHub Pages
