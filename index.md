@@ -9,5 +9,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 5. [4. PENGANTAR MANAJEMEN](ebook/4. PENGANTAR MANAJEMEN) - Sutianingsih, dkk (2024)
 6. [5. DASAR-DASAR PETERNAKAN](ebook/5. DASAR-DASAR PETERNAKAN) - Elis Juariah (2013)
 7. [6. KIMIA DASAR](ebook/6. KIMIA DASAR) - Nur Hidayah, dkk (2020)
-8. 
+8. [7. MATEMATIKA DASAR](ebook/7. MATEMATIKA DASAR) - Rahmawati Patta, dkk (2021)
+9. 
 Powered by GitHub Pages
