@@ -10,5 +10,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 6. [5. DASAR-DASAR PETERNAKAN](ebook/5. DASAR-DASAR PETERNAKAN) - Elis Juariah (2013)
 7. [6. KIMIA DASAR](ebook/6. KIMIA DASAR) - Nur Hidayah, dkk (2020)
 8. [7. MATEMATIKA DASAR](ebook/7. MATEMATIKA DASAR) - Rahmawati Patta, dkk (2021)
-9. 
+9. [8. PENGANTAR PSIKOLOGI UMUM](ebook/8. PENGANTAR PSIKOLOGI UMUM) - Kandi, dkk (2023)
+10. 
 Powered by GitHub Pages
