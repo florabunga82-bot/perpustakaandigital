@@ -7,5 +7,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 3. [2. ILMU KESEHATAN MASYARAKAT](ebook/2. ILMU KESEHATAN MASYARAKAT) - Erlyta Dian Puspitarini, dkk (2025)
 4. [3. KEPERAWATAN JIWA DASAR](ebook/3. KEPERAWATAN JIWA DASAR) - Ade Sucipto, dkk (2025)
 5. [4. PENGANTAR MANAJEMEN](ebook/4. PENGANTAR MANAJEMEN) - Sutianingsih, dkk (2024)
-6. 
+6. [5. DASAR-DASAR PETERNAKAN](ebook/5. DASAR-DASAR PETERNAKAN) - Elis Juariah (2013)
+7. 
 Powered by GitHub Pages
