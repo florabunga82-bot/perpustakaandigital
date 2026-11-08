@@ -13,5 +13,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [8. PENGANTAR PSIKOLOGI UMUM](ebook/8. PENGANTAR PSIKOLOGI UMUM) - Kandi, dkk (2023)
 10. [9. KEBIJAKAN PENGEMBANGA KOLEKSI PERPUSTAKAAN NASIONAL](ebook/9. KEBIJAKAN PENGEMBANGA KOLEKSI PERPUSTAKAAN NASIONAL) - Kepala Perpustakaan Nasional RI - (2012)
 11. [10. Hukum Perdata (Asas-Asas dan Perkembangan)](ebook/10. Hukum Perdata (Asas-Asas dan Perkembangan)) - Sufiarina (2024)
-12. [11. 
+12. [11. Ringkasan UGC Mengubah Perpustakaan melalui Teknologi Informasi](ebook/11. Ringkasan UGC Mengubah Perpustakaan melalui Teknologi Informasi) - Flora Bunga Armelia (2026)
+...
 Powered by GitHub Pages
