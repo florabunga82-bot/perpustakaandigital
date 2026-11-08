@@ -8,5 +8,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 4. [3. KEPERAWATAN JIWA DASAR](ebook/3. KEPERAWATAN JIWA DASAR) - Ade Sucipto, dkk (2025)
 5. [4. PENGANTAR MANAJEMEN](ebook/4. PENGANTAR MANAJEMEN) - Sutianingsih, dkk (2024)
 6. [5. DASAR-DASAR PETERNAKAN](ebook/5. DASAR-DASAR PETERNAKAN) - Elis Juariah (2013)
-7. 
+7. [6. KIMIA DASAR](ebook/6. KIMIA DASAR) - Nur Hidayah, dkk (2020)
+8. 
 Powered by GitHub Pages
