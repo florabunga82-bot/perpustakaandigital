@@ -14,5 +14,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [KEBIJAKAN PENGEMBANGA KOLEKSI PERPUSTAKAAN NASIONAL](ebook/KEBIJAKAN PENGEMBANGA KOLEKSI PERPUSTAKAAN NASIONAL.pdf) - Kepala Perpustakaan Nasional RI - (2012)
 10. [Hukum Perdata (Asas-Asas dan Perkembangan)](ebook/Hukum Perdata (Asas-Asas dan Perkembangan).pdf) - Sufiarina (2024)
 11. [Ringkasan UGC Mengubah Perpustakaan melalui Teknologi Informasi](ebook/Ringkasan UGC Mengubah Perpustakaan melalui Teknologi Informasi.pdf) - Flora Bunga Armelia (2026)
+    
 ...
 Powered by GitHub Pages
