@@ -2,7 +2,7 @@
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
-[Research LibQual Service](ebook/Research LibQual Service.pdf) – Sana Adzar, dkk (2025) 
+0. [Research LibQual Service](ebook/Research LibQual Service.pdf) – Sana Adzar, dkk (2025) 
 1. [MANAJEMEN PERPUSTAKAAN](ebook/MANAJEMEN PERPUSTAKAAN.pdf) - Syafri Fadillah Marpaung (2025) 
 2. [ILMU KESEHATAN MASYARAKAT](ebook/ILMU KESEHATAN MASYARAKAT.pdf) - Erlyta Dian Puspitarini, dkk (2025)
 3. [KEPERAWATAN JIWA DASAR](ebook/KEPERAWATAN JIWA DASAR.pdf) - Ade Sucipto, dkk (2025)
