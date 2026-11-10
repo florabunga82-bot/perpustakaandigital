@@ -1,4 +1,7 @@
 # Digital Library
+Nama    : Flora Bunga Armelia
+NIM     : 13040124120019   
+
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
